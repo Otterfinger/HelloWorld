@@ -1,3 +1,4 @@
 Hello World! 
 Here is a change from the feature branch! Please commit this!
 This sentence was changed at the Github-Website. 
+This is a new entry from feature1 branch. 
