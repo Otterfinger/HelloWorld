@@ -1,2 +1,2 @@
 # HelloWorld
-Now, let's try out some stuff mainly around AWS and keep the stuff on github. 
+Added the first script to this repo: list all EC2 instances in all regions running right now
